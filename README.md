@@ -1,6 +1,14 @@
 # BJTU-game-tool-development
 This is the github repository for the game tool development homework
 
+# Team members
+*Mattieu BERNARD-GUELE*
+*Simon BULCKE*
+*Clovis MASSON*
+*Kevin FANDI*
+*Medhi KOLAI*
+*Remi EVRAER*
+
 # Table of Contents
 1. Problems
 2. Goals
@@ -11,7 +19,7 @@ This is the github repository for the game tool development homework
 
 # Game-tool-development
 
-### 1. Problems ###
+*### 1. Problems ###*
 
 *Ambiguous instruction and not enought time*
 
