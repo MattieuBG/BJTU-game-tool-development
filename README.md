@@ -19,7 +19,7 @@ This is the github repository for the game tool development homework
 
 # Game-tool-development
 
-*### 1. Problems ###*
+### *1. Problems* ###
 
 *Ambiguous instruction and not enought time*
 
