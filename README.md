@@ -2,17 +2,17 @@
 This is the github repository for the game tool development homework
 
 # Team members
-*Mattieu BERNARD-GUELE*
+*Mattieu BERNARD-GUELE (15129004)* 
 
-*Simon BULCKE*
+*Simon BULCKE (15129005)*
 
-*Clovis MASSON*
+*Clovis MASSON (15129002)*
 
-*Kevin FANDI*
+*Kevin FANDI (15129003)*
 
-*Medhi KOLAI*
+*Medhi KOLAI (15129006)*
 
-*Remi EVRAER*
+*Remi EVRAER (15129008)*
 
 # Table of Contents
 1. Problems
