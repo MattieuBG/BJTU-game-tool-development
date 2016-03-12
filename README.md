@@ -3,10 +3,15 @@ This is the github repository for the game tool development homework
 
 # Team members
 *Mattieu BERNARD-GUELE*
+
 *Simon BULCKE*
+
 *Clovis MASSON*
+
 *Kevin FANDI*
+
 *Medhi KOLAI*
+
 *Remi EVRAER*
 
 # Table of Contents
@@ -21,22 +26,22 @@ This is the github repository for the game tool development homework
 
 ### *1. Problems* ###
 
-*Ambiguous instruction and not enought time*
+Ambiguous instruction and not enought time
 
-### 2. Goals ###
+### *2. Goals* ###
 
-*Make a message brocker framework in C++*
+Make a message brocker framework in C++
 
-### 3. User Story ###
+### *3. User Story* ###
 
-*Send and receive messages* 
+Send and receive messages
 
-### 4. Architecture ###
+### *4. Architecture* ###
 
-### 5. Details of Components ###
+### *5. Details of Components* ###
 
-### 6. Milestones ###
+### *6. Milestones* ###
 
-*Wednesday meeting* 
+Wednesday meeting 
 
-*Saturday development of the project*
+Saturday development of the project
