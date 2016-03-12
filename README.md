@@ -9,14 +9,10 @@ This is the github repository for the game tool development homework
 5. Details of Components
 6. Milestones
 
+Game-tool-development
 1. Problems
-
 2. Goals
-
 3. User Story
-
 4. Architecture
-
 5. Details of Components
-
 6. Milestones
